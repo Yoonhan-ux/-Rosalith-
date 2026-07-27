@@ -1,1 +1,0 @@
-Ouvrez index.html ou installez la PWA.
