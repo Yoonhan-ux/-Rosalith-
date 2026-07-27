@@ -1,0 +1,13 @@
+{
+  "name":"Le Royaume de Rosalith",
+  "short_name":"Rosalith",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#2b1833",
+  "theme_color":"#2b1833",
+  "icons":[
+    {"src":"icon.png","sizes":"512x512","type":"image/png"},
+    {"src":"apple-touch-icon.png","sizes":"180x180","type":"image/png"}
+  ]
+}
